@@ -1,6 +1,16 @@
-### 👋 Hi, I'm @Tsu-Yu
+<h1 align="center">Hi 👋, I'm Carrie</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 👀 I'm interested in ...
+- 🔭 I’m currently working on [Web final exam](index.html)
+
+- 🌱 I’m currently learning **HTML,CSS,JS**
+
+- 📫 How to reach me **cccccc@carriemail.com**
+
+- 📄 Know about my experiences [resume.html](resume.html)
+
+- ⚡ Fun fact **I have a crazy chi-wa-wa**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
