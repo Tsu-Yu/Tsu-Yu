@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carrie</h1>
-<h3 align="center">A passionate frontend developer from Asia</h3>
+<h3 align="center">A sophomore in NCU !</h3>
 
 - 🔭 I’m currently working on [Web final exam](index.html)
 
@@ -13,5 +13,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  09-12345678 cccccc@carriemail.com
+  📲09-12345678 📩cccccc@carriemail.com
 </p>
